@@ -1,2 +1,20 @@
 # HTML-
 My very first html repository in github to know more about github
+<!DOCTYPE html>
+<html lang="en" dir="ltr">
+  <head>
+    <meta charset="utf-8">
+    <title>FIRST UDEMY HTML PROJECT</title>
+  </head>
+  <body>
+    <h1>HEADER</h1>
+    <h2>HEADER</h2>
+    <h3>HEADER</h3>
+    <h4>HEADER</h4>
+    <h5>HEADER</h5>
+    <h6>HEADER</h6>
+    <p><b>This</b> <u>is</u> <i>a</i> <em>paragrah</em></p>
+    <strong>bold</strong><br><br>
+    <iframe src="" width="100" height="100"></iframe>
+  </body>
+</html>
